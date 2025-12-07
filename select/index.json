@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Blank",
+  "base_artist": "Disfigure",
+  "createdAt": "2025-12-07T08:54:03.181866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blank Like Snow",
+      "artist": "Movietone",
+      "has_synced": false,
+      "path": "select/02_Blank_Like_Snow_Movietone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What U Like (Feat. Amanda Blank & Einsten)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/03_What_U_Like_(Feat._Amanda_Blank_&_Einsten)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blank Frank (2004 Remaster)",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/04_Blank_Frank_(2004_Remaster)_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blank Frank",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/05_Blank_Frank_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blank Frank",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/06_Blank_Frank_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blank Eyed, Nose Bleed",
+      "artist": "ADULT.",
+      "has_synced": false,
+      "path": "select/07_Blank_Eyed,_Nose_Bleed_ADULT..txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Make Me Blank (Fat. J. Davey)",
+      "artist": "The Bloody Beetroots",
+      "has_synced": true,
+      "path": "select/08_Make_Me_Blank_(Fat._J._Davey)_The_Bloody_Beetroots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make Me Blank (feat. J*davey)",
+      "artist": "The Bloody Beetroots",
+      "has_synced": true,
+      "path": "select/09_Make_Me_Blank_(feat._J_davey)_The_Bloody_Beetroots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jesus Wrote a Blank Check",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/10_Jesus_Wrote_a_Blank_Check_Cake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blank (Sadlands Demo)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/11_Blank_(Sadlands_Demo)_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blank (Sadlands demo)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/12_Blank_(Sadlands_demo)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blank Page",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/13_Blank_Page_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blank Girl",
+      "artist": "Dum Dum Girls",
+      "has_synced": true,
+      "path": "select/15_Blank_Girl_Dum_Dum_Girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blank",
+      "artist": "Disfigure, Tara Louise",
+      "has_synced": false,
+      "path": "select/pl_01_Blank_Disfigure,_Tara_Louise.txt"
+    }
+  ]
+}
